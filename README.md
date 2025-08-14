@@ -28,6 +28,8 @@ This project demonstrates building a logistic regression model from scratch usin
 - Completed Lab 4 individually
 - Implemented logistic regression model and analysis
 
+The dataset used in this lab is too large to host on GitHub. You can download it here (https://drive.google.com/file/d/1K4qOfPSHDC-PMMBcRsJ7GWnYtMYPms2V/view?usp=sharing) and place it in a folder named data/ in the repository before running the notebook.
+
 ## Installation
 ```bash
 git clone <repo-url>
